@@ -1,5 +1,5 @@
 {
-  "name": "etm",
+  "name": "pyrpleDex",
   "version": "1.0.0",
   "main": "ptokens_tests.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethermium-dex/EtherMium-SWAP.git"
+    "url": "git+https://github.com/cleancoindev/EtherMium-SWAP.git"
   },
   "bugs": {
-    "url": "https://github.com/ethermium-dex/EtherMium-SWAP/issues"
+    "url": "https://github.com/cleancoindev/EtherMium-SWAP/issues"
   },
-  "homepage": "https://github.com/ethermium-dex/EtherMium-SWAP#readme",
+  "homepage": "https://github.com/cleancoindev/EtherMium-SWAP#readme",
   "description": "",
   "dependencies": {
     "lodash": "^4.17.15",
